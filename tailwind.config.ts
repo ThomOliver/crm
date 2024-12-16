@@ -9,8 +9,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        backgroundPrimary: "#020617",
+        backgroundPrimaryRgba: "rgba(255,255,240,0.2)",
+        buttonColor: "#5eead4",
+        hoverButtonColor: "#2dd4bf",
+        textColor: "#bfdbfe",
       },
     },
   },
